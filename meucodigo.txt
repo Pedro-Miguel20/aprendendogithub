@@ -1,1 +1,2 @@
-hellow world
+hellow word
+today is a new day because i learn basic code's git
